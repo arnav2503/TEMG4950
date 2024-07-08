@@ -1,7 +1,6 @@
 # TEMG4950
 This repository has an assignment for TEMG4940:
 
-Customer Analysis using LinearSVC
 This machine learning project aims to predict whether a customer will purchase a product or not based on their demographic and behavioral data through the effectiveness of marketing campaigns. The project uses a binary classification model based on Linear Support Vector Classification (LinearSVC) to predict the target variable. It also uses other models to check the data relation. 
 
 Dataset
